@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvpdate",
+        "uuid": 13216693,
+        "checksum": "xavlnp"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
